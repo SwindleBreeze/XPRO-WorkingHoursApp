@@ -1,0 +1,72 @@
+/* RegisterPage.css */
+
+.register-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 120vh;
+    background-color: #f4f4f4;
+}
+  
+.form-container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 400px;
+}
+  
+h2 {
+    text-align: center;
+}
+  
+.input-container {
+    margin-bottom: 15px;
+}
+  
+label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+}
+  
+input, select, textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+textarea {
+    resize: vertical;
+    width: 96%;
+}
+  
+.submit-button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  } 
+  
+.submit-button:hover {    
+    background-color: #0056b3;
+}
+  
+.error-message {
+    color: red;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.required {
+    color: red;
+    font-size: 1.2em;
+    margin-left: 5px;
+}
+  
+  
