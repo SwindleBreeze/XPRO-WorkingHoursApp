@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "FaTUJysT207QIBQVTCvqmqwYphHBt8mLa9eoWyKWr6c=",
+  "Source": "WorkingHoursApp",
+  "BasePath": "_content/WorkingHoursApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
